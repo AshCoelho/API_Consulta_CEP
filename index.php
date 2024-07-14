@@ -8,8 +8,8 @@
 <style>
     body {
         background-color: #F6C90E;
-        background-position: center; /* Centraliza a imagem */
-        background-repeat: no-repeat; /* Não repete a imagem */
+        background-position: center; 
+        background-repeat: no-repeat;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -17,14 +17,14 @@
         margin: 0;
     }
     .container {
-        background-color: black; /* Fundo preto com opacidade */
-        color: white; /* Cor do texto */
+        background-color: black; 
+        color: white; 
         padding: 20px;
         border-radius: 10px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
         max-width: 600px;
         width: 100%;
-        text-align: center; /* Centraliza todo o conteúdo */
+        text-align: center;
     }
     table {
         width: 100%;
@@ -32,12 +32,12 @@
         margin-top: 20px;
     }
     table, th, td {
-        border: 1px solid white; /* Cor da borda da tabela */
+        border: 1px solid white; 
         padding: 10px;
         text-align: left;
     }
     th {
-        background-color: #333; /* Cor de fundo do cabeçalho */
+        background-color: #333; 
     }
 </style>
 </head>
